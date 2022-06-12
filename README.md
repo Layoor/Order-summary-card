@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://layoor.github.io/Order-summary-card/)
+- Solution URL: [Frontend mentor solution](https://your-solution-url.com)
+- Live Site URL: [Github Site](https://layoor.github.io/Order-summary-card/)
 
 
 
@@ -38,8 +38,8 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Layoor)
-- Twitter - [@yourusername](https://www.twitter.com/Abakeade_)
+- Frontend Mentor - [Frontend mentor](https://www.frontendmentor.io/profile/Layoor)
+- Twitter - [Twitter](https://www.twitter.com/Abakeade_)
 
 
 
